@@ -40,7 +40,7 @@ android {
 }
 
 dependencies {
-    implementation(project(":autocompletebox"))
+    implementation(project(":auto-complete-box"))
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)

@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AutoCompleteBox"
 include(":app")
-include(":autocompletebox")
+include(":auto-complete-box")
