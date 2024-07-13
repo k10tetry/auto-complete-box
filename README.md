@@ -26,6 +26,28 @@ A customised Auto Complete Box with modern ui design built using custom viewgrou
   </tr>
 </table>
 
+## Installation
+
+Add Jitpack to your project build.gralde file.
+
+```javascript
+allprojects {
+  repositories {
+    ...
+    maven { url 'https://jitpack.io' }
+  }
+}
+```
+
+Then add this dependency to your app build.gradle file.
+
+```javascript
+dependencies {
+  ...
+  implementation 'com.github.k10tetry:auto-complete-box:v1.0.0'
+}
+```
+
 ## License
 ```
 MIT License
