@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#212125</color>
+    <color name="primaryVariantColor">#131316</color>
+
+    <color name="backgroundColor">#ffffff</color>
+    <color name="surfaceColor">#f8f9fa</color>
+
+    <color name="onPrimaryColor">#ffffff</color>
+
+    <color name="onBackgroundColor">@color/primaryColor</color>
+    <color name="onSurfaceColor">@color/primaryColor</color>
+
+    <color name="tertiaryColor">#efefef</color>
+    <color name="tertiaryVariantColor">#e0e0e0</color>
+
+    <color name="darkGrayColor">#AFAFAF</color>
+</resources>

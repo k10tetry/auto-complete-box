@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AutoCompleteBox" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:windowBackground">@color/backgroundColor</item>
+    </style>
+
+    <style name="Theme.AutoCompleteBox" parent="Base.Theme.AutoCompleteBox" />
+</resources>
